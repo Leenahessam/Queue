@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555350487 source:c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p6_20170331_20170204_20170178_g18_g19\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Queue.h"
+
+1555350536 source:c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p6_20170331_20170204_20170178_g18_g19\queue.cpp
+	"Queue.h"
+
+1555350061 c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p6_20170331_20170204_20170178_g18_g19\queue.h
+	<iostream>
+	<bits/stdc++.h>
+
